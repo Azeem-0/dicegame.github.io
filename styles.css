@@ -1,0 +1,42 @@
+body{
+    background-color:bisque;
+}
+#declare{
+    text-align: center;
+}
+#player{
+    position: relative;
+}
+#p1{
+    position: absolute;
+    left : 300px;
+    top : 70px;
+}
+#p2{
+    position: absolute;
+    top: 70px;
+    right:280px;
+}
+#d1{
+    display: inline-block;
+}
+#dices{
+    position: relative;
+}
+#d1{
+    position: absolute;
+    top: 150px;
+    left: 226px;
+}
+#d2{
+    position: absolute;
+    top: 150px;
+    right: 200px;
+}
+button{
+    margin-left: 550px;
+    margin-top: 50px;
+    height: 50px;
+    width: 100px;
+    background-color: lightcoral;
+}
